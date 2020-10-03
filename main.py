@@ -27,6 +27,23 @@ print(_greeting + first_name + last_name)
 # characters in the sentence. 
 # The sentence is "This is my first Python program."
 
+test_sentence = "This is my first Python program."
+len(test_sentence)
+
 # 5.- Given the resolution 1920 x 1080, make a program that prints a string with 
 # the 10% over-scan value of those numbers. The printed string must be as 
 # follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
+
+first_number = 1920
+second_number = 1080
+ten_percent = 1.1
+result_one = first_number*ten_percent
+result_two = second_number*ten_percent
+print("The 10% overscan result of")
+first_name
+print("is")
+result_one
+print("and the")
+second_number
+print("is")
+result_two
