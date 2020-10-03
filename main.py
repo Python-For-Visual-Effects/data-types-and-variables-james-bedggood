@@ -18,7 +18,10 @@ print(x + y)
 
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
-
+first_name = "James"
+last_name = " Bedggood"
+_greeting = "Hello, my name is "
+print(_greeting + first_name + last_name)
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
 # characters in the sentence. 
